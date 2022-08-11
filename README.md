@@ -1,1 +1,1 @@
-pre-built riscv64 toolchain
+pre-built riscv64 toolchain for u-boot CI
